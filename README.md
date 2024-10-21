@@ -23,8 +23,6 @@
 **Note**: If you are using multiple controllers the controller ports will be set in the order you connect (if available), so first connection -> port 1 second connection -> port 2 etc, simply powering off the controller (ie removing batteries) will not trigger a disconnect on vita. You need to hold the Xbox Button till it turns off.  
 **Note**: If you use Mai, don't put the plugin inside ux0:/plugins because Mai will load all stuff you put in there...  
 
-This plugin is **not** compatible with the other ds vita plugins yet!!!! (but you can use ds3/4 on vita TV or use minivitaTV)  
-
 Made for the kyuhen homebrew contest.  
 Based on ds4vita  
 
